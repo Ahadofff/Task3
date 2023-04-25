@@ -1,0 +1,66 @@
+#body{
+    text-align: center;
+}
+#ste{
+    border-top: 15px solid seagreen;
+    margin-top: -10px;
+    padding-top: 10px;
+    font-size: 70px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+#front{
+    margin-top: -60px;
+    padding-right: 300px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+#find{
+    padding-right: 400px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif ;
+}   
+#sira{
+    text-align: left;
+    margin-left: 80px;
+}
+#sirametn{
+    color: green;
+}
+#blog{
+    font-weight: 900;
+    font-size: 20px;
+    text-align:left ;
+    margin-left: 93px;
+}
+#Are{
+    font-weight: 900;
+    font-size: 20px;
+    text-align:left ;
+    margin-left: 89px;
+}
+#Metinilk{
+    text-align: left;
+    margin-left: 89px;
+}
+#those{
+    font-weight: 900;
+    font-size: 20px;
+    text-align:left ;
+    margin-left: 89px;
+}
+#Metiniki{
+    text-align: left;
+    margin-left: 89px;
+}
+#my{
+    font-weight: 900;
+    font-size: 20px;
+    text-align:left ;
+    margin-left: 89px;
+}
+#Metinuc{
+    text-align: left;
+    margin-left: 89px;
+}
+

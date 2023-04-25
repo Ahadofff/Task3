@@ -1,0 +1,52 @@
+#D1 {
+    color: white;
+    padding: 10;
+    width: 1400px;
+    height: 60px;
+    background-color: aqua;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+#esasset{
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+}
+#ilkset{
+    padding-top: 10px;
+    text-align: left;
+    padding-right: 50px;
+}
+#sp1{
+    padding-top: 10px ;
+    display: block;
+    font-weight: bold;
+    font-size:20px;
+}
+#sp2{
+    padding-top: 10px ;
+    display: block;
+    font-weight: bold;
+    color: darkred;
+    }
+#sp3{
+    color: red;
+}
+#sp4{
+    color: red;
+}
+#sp5{
+    padding-top: 10px ;
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    font-size: x-large;
+}
+#sp6{
+        display: block;
+        padding-top: 10px ;       
+        text-align: left;
+}
+
+

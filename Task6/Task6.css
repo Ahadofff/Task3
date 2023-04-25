@@ -1,0 +1,49 @@
+#setir{
+    height:60px ;
+    width: 1475x;
+    background-color: black;
+}
+#ilk{
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: large ;
+    font-weight: 800;
+}
+#esasd{
+    display: flex;
+}
+#asagicercive{
+    display: flex;
+}
+#you{
+    font-weight: 900;
+}
+#cercive{
+    background-color: grey;
+    width: 120px;
+    height: 80px;
+    color: darkgray;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: -10px;
+}
+#write{
+    padding-left: 10px;
+
+}
+#qirmizi{
+    color: red;
+}
+#con{
+    font-size: large;
+}
+#son{
+    margin-top: -10px;
+}
+#email{
+    color: red;
+}
+#sag{
+    margin-left: 800px;
+}

@@ -1,0 +1,18 @@
+#basliq{
+    font-size: 60px;
+    font-weight: 900;
+  }
+  #Yaşil{
+    border: green 5px solid;
+    width: 600px;
+    height: 300px;
+    font-size: 60px;
+    
+  }
+  #Sari{
+    font-size: 60px;
+    border: yellow 5px solid;
+    width: 900px;
+    height: 300px;
+    padding: 45px
+  }

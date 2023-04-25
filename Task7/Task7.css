@@ -1,0 +1,42 @@
+#Esas{
+    font-size: 30px;
+}
+#solid{
+    border:5px solid;
+    border-color: red;
+}
+#double{
+    border:5px double;
+    border-color: red;
+    margin-top: 10px;
+}
+#groove{
+    border:5px groove;
+    border-color: red;
+    margin-top: 10px;
+}
+#ridge{
+    border:5px ridge;
+    border-color: red;
+    margin-top: 10px;
+}
+#inset{
+    border:5px inset;
+    border-color: red;
+    margin-top: 10px;
+}
+#outset{
+    border:5px outset;
+    border-color: red;
+    margin-top: 10px;
+}
+#dashed{
+    border:5px dashed;
+    border-color: red;
+    margin-top: 10px;
+}
+#dotted{
+    border:5px dotted;
+    border-color: red;
+    margin-top: 10px;
+}

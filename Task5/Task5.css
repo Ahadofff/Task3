@@ -1,0 +1,49 @@
+#Basliq{
+    background-color: aqua;
+    height: 80px;
+    display: block;
+    margin-top: -10px;
+    font-weight: bold;
+    font-size: 30px ;
+    margin-left: -10px;
+}
+#esas{
+    display: flex;
+
+
+}
+#sira{
+    margin-top: -20px;
+    list-style-type: none;
+    color: red;
+    display: block;
+    margin-left: -30px;
+    background-color: blue;
+    width:120px ;
+    height: 200px;
+}
+#sira1{
+    padding-top: 10px;
+}
+#sira2{
+    padding-top: 10px;
+}
+#sira3{
+    padding-top: 10px;
+}
+#sira4{
+    padding-top: 10px;
+}
+#metn1{
+    margin-left:150px ;
+    text-align: center;
+}
+#metn2{
+    margin-left: -15px;
+    margin-top: -15px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: chocolate;
+    width: 700px;
+    height: 50px;
+}
